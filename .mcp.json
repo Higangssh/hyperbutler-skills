@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hyperbutler": {
+      "command": "hyperbutler.exe",
+      "args": ["mcp"]
+    }
+  }
+}

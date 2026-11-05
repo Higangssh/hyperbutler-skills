@@ -1,0 +1,10 @@
+{
+  "name": "hyperbutler",
+  "version": "0.1.0",
+  "description": "Run and troubleshoot Docker on Windows 11 with hyperbutler (no WSL), plus its read-only MCP server.",
+  "author": { "name": "SangheeSon" },
+  "homepage": "https://hyperbutler.dev",
+  "repository": "https://github.com/Higangssh/hyperbutler-skills",
+  "license": "Apache-2.0",
+  "keywords": ["docker", "windows", "hyper-v", "containers", "mcp"]
+}

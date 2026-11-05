@@ -1,0 +1,11 @@
+{
+  "name": "hyperbutler-skills",
+  "owner": { "name": "SangheeSon" },
+  "plugins": [
+    {
+      "name": "hyperbutler",
+      "source": "./",
+      "description": "Run and troubleshoot Docker on Windows 11 with hyperbutler (no WSL), plus its read-only MCP server."
+    }
+  ]
+}
